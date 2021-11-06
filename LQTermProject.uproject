@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{183F32DE-4E42-BB5D-A0E3-A2A9477E584C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LQTermProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
