@@ -82,6 +82,11 @@
   - 点击Button切换场景中材质
     - 扫描效果
 
+- AI
+
+  - 在多个巡逻点之间巡逻
+
+
 # 链接
 
 - [Lesson4| UMG界面 | 网盘链接](https://share.weiyun.com/ARsph86I)
