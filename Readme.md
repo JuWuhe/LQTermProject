@@ -110,6 +110,7 @@
 - [Lesson6| 基本物理 | 网盘链接](https://share.weiyun.com/9BFyICQy)
 - [Lesson7| 网络同步 | 网盘链接](https://share.weiyun.com/1Mi8mb9s)
 - [Lesson8| 渲染基础| 网盘链接](https://share.weiyun.com/SUdxJgU2)
+- [Lesson9| AI技术介绍| 网盘链接](https://share.weiyun.com/pwP57UPC)
 
 # 维护者
 
